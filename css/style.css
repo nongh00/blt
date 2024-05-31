@@ -1,1 +1,13 @@
-
+.conteiner{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.ble-button{
+    width: 5vw;
+    height: 5vh;
+    background: #FFF;
+}
